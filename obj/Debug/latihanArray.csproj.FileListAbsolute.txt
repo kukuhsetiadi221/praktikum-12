@@ -1,0 +1,8 @@
+D:\Pemrograman C#\praktikum 12\latihanArray\latihanArray\bin\Debug\latihanArray.exe.config
+D:\Pemrograman C#\praktikum 12\latihanArray\latihanArray\bin\Debug\latihanArray.exe
+D:\Pemrograman C#\praktikum 12\latihanArray\latihanArray\bin\Debug\latihanArray.pdb
+D:\Pemrograman C#\praktikum 12\latihanArray\latihanArray\obj\Debug\latihanArray.csproj.AssemblyReference.cache
+D:\Pemrograman C#\praktikum 12\latihanArray\latihanArray\obj\Debug\latihanArray.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman C#\praktikum 12\latihanArray\latihanArray\obj\Debug\latihanArray.csproj.CoreCompileInputs.cache
+D:\Pemrograman C#\praktikum 12\latihanArray\latihanArray\obj\Debug\latihanArray.exe
+D:\Pemrograman C#\praktikum 12\latihanArray\latihanArray\obj\Debug\latihanArray.pdb
